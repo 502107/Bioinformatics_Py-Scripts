@@ -162,11 +162,11 @@ def main(argv):
     try:
         opts, args = getopt.getopt(argv,"ht:i:g:f:c:1:2:3:4:r:q:s:",["task=","input=","gff=","fna=","gene=","input1=","input2=","input3=","input4=","run=","query=","subject="])
     except getopt.GetoptError:
-        print(f'Usage: python fungicide_tools.py -t <task>\nTasks:\npython fungicide_tools.py -t nt_to_aa -i <input_fna>\npython fungicide_tools.py -t get_gene -g <input_gff> -f <input_fna> -c <gene_name>\npython fungicide_tools.py -t align -1 <input_fna> -2 <input_fna> [up to 4 input sequences; optional: -r [nt/aa]]\npython fungicide_tools.py -t blast -q <query> -s <subject> [optional: -r [blastn/megablast] -g <annotation_gff>]\npython fungicide_tools.py -t extract_cds -g <input_gff> -f <input_fna>')
+        print(f'Usage: python bioinformatic_tools -t <task>\nTasks:\npython bioinformatic_tools -t nt_to_aa -i <input_fna>\npython bioinformatic_tools -t get_gene -g <input_gff> -f <input_fna> -c <gene_name>\npython bioinformatic_tools -t align -1 <input_fna> -2 <input_fna> [up to 4 input sequences; optional: -r [nt/aa]]\npython bioinformatic_tools -t blast -q <query> -s <subject> [optional: -r [blastn/megablast] -g <annotation_gff>]\npython bioinformatic_tools -t extract_cds -g <input_gff> -f <input_fna>')
         sys.exit(2)
     for opt, arg in opts:
         if opt == '-h':
-            print(f'Usage: python fungicide_tools.py -t <task>\nTasks:\npython fungicide_tools.py -t nt_to_aa -i <input_fna>\npython fungicide_tools.py -t get_gene -g <input_gff> -f <input_fna> -c <gene_name>\npython fungicide_tools.py -t align -1 <input_fna> -2 <input_fna> [up to 4 input sequences; optional: -r [nt/aa]]\npython fungicide_tools.py -t blast -q <query> -s <subject> [optional: -r [blastn/megablast] -g <annotation_gff>]\npython fungicide_tools.py -t extract_cds -g <input_gff> -f <input_fna>')
+            print(f'Usage: python bioinformatic_tools -t <task>\nTasks:\npython bioinformatic_tools -t nt_to_aa -i <input_fna>\npython bioinformatic_tools -t get_gene -g <input_gff> -f <input_fna> -c <gene_name>\npython bioinformatic_tools -t align -1 <input_fna> -2 <input_fna> [up to 4 input sequences; optional: -r [nt/aa]]\npython bioinformatic_tools -t blast -q <query> -s <subject> [optional: -r [blastn/megablast] -g <annotation_gff>]\npython bioinformatic_tools -t extract_cds -g <input_gff> -f <input_fna>')
             sys.exit()
         elif opt in ("-t", "--task"):
             task = arg
