@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 720 288">
+  <!-- Generator: Adobe Illustrator 29.3.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 146)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2 {
+        stroke-linecap: square;
+        stroke-width: 5px;
+      }
+
+      .st0, .st1, .st2, .st3 {
+        fill: none;
+        stroke-linejoin: round;
+      }
+
+      .st0, .st4 {
+        stroke: #5cb771;
+      }
+
+      .st5 {
+        fill: #fff;
+        opacity: .8;
+        stroke: #dedede;
+      }
+
+      .st5, .st6, .st7 {
+        isolation: isolate;
+      }
+
+      .st8, .st6, .st9, .st10, .st11 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st8, .st9, .st10, .st11 {
+        font-size: 12px;
+      }
+
+      .st8, .st12 {
+        fill: #2489cf;
+      }
+
+      .st6, .st7 {
+        font-size: 10px;
+      }
+
+      .st13 {
+        font-family: AndaleMono, 'Andale Mono';
+        font-size: 6px;
+        letter-spacing: 0em;
+      }
+
+      .st1, .st14 {
+        stroke: #a674d4;
+      }
+
+      .st10, .st4 {
+        fill: #5cb771;
+      }
+
+      .st7 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .st2, .st12 {
+        stroke: #2489cf;
+      }
+
+      .st3 {
+        stroke: #000;
+        stroke-width: 7px;
+      }
+
+      .st14, .st11 {
+        fill: #a674d4;
+      }
+
+      .st15 {
+        opacity: .5;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="st5" d="M565.5,200.6h141.5c1.3,0,2-.7,2-2v-60.3c0-1.3-.7-2-2-2h-141.5c-1.3,0-2,.7-2,2v60.3c0,1.3.7,2,2,2Z"/>
+    <text class="st7" transform="translate(616.9 148.9)"><tspan x="0" y="0">Domain</tspan></text>
+    <path class="st2" d="M568.5,160.1h20"/>
+    <text class="st6" transform="translate(596.5 163.6)"><tspan x="0" y="0">SAP</tspan></text>
+    <path class="st0" d="M568.5,191.8h20"/>
+    <text class="st6" transform="translate(596.5 195.3)"><tspan x="0" y="0">SP-RING_Siz-like</tspan></text>
+    <path class="st1" d="M568.5,175.7h20"/>
+    <text class="st6" transform="translate(596.5 179.2)"><tspan x="0" y="0">PHD_Bye1p_SIZ1_like</tspan></text>
+  </g>
+  <g>
+    <g id="ytick_1">
+      <g id="text_19">
+        <text class="st6" transform="translate(10.9 195.9)"><tspan x="0" y="0">Arabidopsis</tspan></text>
+      </g>
+    </g>
+    <g id="ytick_2">
+      <g id="text_20">
+        <text class="st6" transform="translate(36.7 158.6)"><tspan x="0" y="0">Wheat</tspan></text>
+      </g>
+    </g>
+    <path class="st3" d="M76.1,192.1h449.4"/>
+    <path class="st3" d="M76.1,154.8h426.5"/>
+    <path class="st12" d="M80.7,198.9h17.8s0-4.5,0-13.6v13.6c0-9.1,0-13.6,0-13.6h-17.8s0,4.5,0,13.6v-13.6c0,9.1,0,13.6,0,13.6Z"/>
+    <path class="st14" d="M133.1,198.9h26.4s0-4.5,0-13.6v13.6c0-9.1,0-13.6,0-13.6h-26.4s0,4.5,0,13.6v-13.6c0,9.1,0,13.6,0,13.6Z"/>
+    <path class="st4" d="M258.1,198.9h25.4s0-4.5,0-13.6v13.6c0-9.1,0-13.6,0-13.6h-25.4s0,4.5,0,13.6v-13.6c0,9.1,0,13.6,0,13.6Z"/>
+    <path class="st12" d="M82.7,161.6h16.2s0-4.5,0-13.6v13.6c0-9.1,0-13.6,0-13.6h-16.2s0,4.5,0,13.6v-13.6c0,9.1,0,13.6,0,13.6Z"/>
+    <path class="st14" d="M135.1,161.6h26.9s0-4.5,0-13.6v13.6c0-9.1,0-13.6,0-13.6h-26.9s0,4.5,0,13.6v-13.6c0,9.1,0,13.6,0,13.6Z"/>
+    <path class="st4" d="M260.7,161.6h25.4s0-4.5,0-13.6v13.6c0-9.1,0-13.6,0-13.6h-25.4s0,4.5,0,13.6v-13.6c0,9.1,0,13.6,0,13.6Z"/>
+    <text class="st9" transform="translate(528.6 195.9)"><tspan x="0" y="0">884</tspan></text>
+    <text class="st9" transform="translate(505.5 158.7)"><tspan x="0" y="0">839</tspan></text>
+    <text class="st8" transform="translate(74.2 142.2)"><tspan x="0" y="0">15..46</tspan></text>
+    <text class="st11" transform="translate(124.8 142.2)"><tspan x="0" y="0">118..170</tspan></text>
+    <text class="st10" transform="translate(249.5 142.2)"><tspan x="0" y="0">365..414</tspan></text>
+    <text class="st8" transform="translate(74.8 213.9)"><tspan x="0" y="0">11..45</tspan></text>
+    <text class="st11" transform="translate(125.3 213.9)"><tspan x="0" y="0">114..165</tspan></text>
+    <text class="st10" transform="translate(248.1 213.9)"><tspan x="0" y="0">360..409</tspan></text>
+  </g>
+  <g>
+    <g class="st15">
+      <path class="st12" d="M38.9,90.7h158c0,0,.1-12.2.1-36.7v36.7c0-24.5,0-36.7-.1-36.7H38.9c0,0-.1,12.2-.1,36.7v-36.7c0,24.5,0,36.7.1,36.7Z"/>
+    </g>
+    <text class="st13" transform="translate(40.4 62.6)"><tspan x="0" y="0">---FRIKELKDI-LH-QLGLP-KQGKKQD-LI-DRV-LA-LL</tspan><tspan x="0" y="7.2" xml:space="preserve">   ||||||||  |  ||||  ||||||  |  ||  |  ||</tspan><tspan x="0" y="14.4">LSYFRIKELKD-VL-TQLGL-SKQGKKQ-EL-VDR-IL-TLL</tspan><tspan x="0" y="21.6" xml:space="preserve">  Score=42.3</tspan></text>
+  </g>
+  <g>
+    <g class="st15">
+      <path class="st4" d="M471.7,90.7h209.3c.1,0,.2-12.2.2-36.7v36.7c0-24.5,0-36.7-.2-36.7h-209.3c-.1,0-.2,12.2-.2,36.7v-36.7c0,24.5,0,36.7.2,36.7Z"/>
+    </g>
+    <text class="st13" transform="translate(473.2 62.6)"><tspan x="0" y="0">NLRCPN-SGSRM-KT-AGRFK-PCI-HMGCFDLDT-FVELNQRSRKWQCPICLKNY</tspan><tspan x="0" y="7.2" xml:space="preserve">|||||  ||||  |  ||||  ||  ||||||||  ||||||||||||||||||||</tspan><tspan x="0" y="14.4">NLRCP-MSGSR-IK-VAGRF-LPC-VHMGCFDLD-VFVELNQRSRKWQCPICLKNY</tspan><tspan x="0" y="21.6" xml:space="preserve">  Score=82</tspan></text>
+  </g>
+  <g>
+    <g class="st15">
+      <path class="st14" d="M203.8,90.7h261.6c.2,0,.2-12.2.2-36.7v36.7c0-24.5,0-36.7-.2-36.7H203.8c-.2,0-.2,12.2-.2,36.7v-36.7c0,24.5,0,36.7.2,36.7Z"/>
+    </g>
+    <text class="st13" transform="translate(205.2 62.6)"><tspan x="0" y="0">RCI-CD--SKLLN--DN-MIQCEDD-RCHVWQHMS--CV-LVPDKPTEGV--G-PEVP-PH--FYCEL-C</tspan><tspan x="0" y="7.2" xml:space="preserve">||  |   |  |   |  ||||| | |||||||    || | ||||      | |  | |   ||||  |</tspan><tspan x="0" y="14.4">RC-VC-GNS--L-ETD-SMIQCE-DPRCHVWQH--VGCVIL-PDKP----MDGNP--PLP-ESFYCE-IC</tspan><tspan x="0" y="21.6" xml:space="preserve">  Score=56.9</tspan></text>
+  </g>
+</svg>
