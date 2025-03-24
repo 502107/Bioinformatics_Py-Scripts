@@ -1,0 +1,44 @@
+tree_name,tree_new_name,country,nextstrain_group,region,author,other_names,genetic_group
+SRX684276,13/21,UK,Cluster 3 (Hubbard et al. 2015),Europe,Hubbard et al. 2015,,Genetic group 3
+ERS1327161,14.0078,Germany,Cluster 3 (Hubbard et al. 2015),Europe,Bueno-Sancho et al. 2017,,Genetic group 3
+ERS1327108,11/03,New Zealand,Other,Oceania,Bueno-Sancho et al. 2017,011/03,New Zealand 2006-2012
+SRX703657,11/08_Warrior: pre-2013 UK isolate,UK,PstS7,Europe,Hubbard et al. 2015,11/08,Genetic group 1
+SRS707593,11/128: pre-2013 UK isolate,UK,Other,Europe,Hubbard et al. 2015,UK 1978-2011,Pre-2013 UK isolates
+ERS1327109,12/08,New Zealand,Other,Oceania,Bueno-Sancho et al. 2017,,New Zealand 2006-2012
+ERS3173007,14.0080,Germany,PstS10,Europe,Bueno-Sancho et al. 2017,,Genetic group 4
+ERS1327117,14.0240,Ethiopia,Other,Africa,Bueno-Sancho et al. 2017,,Ethiopia
+SRX667861,88.5SS1: pre-2013 UK isolate,UK,Other,Europe,Hubbard et al. 2015,UK 1978-2011,Pre-2013 UK isolates
+ERS1327105,Chile_30,Chile,Other,South America,Bueno-Sancho et al. 2017,,Chile
+ERS1327095,FW1: pre-2013 French isolate,France,PstS7,Europe,Hubbard et al. 2015,France 1988-2013,Genetic group 1
+SRX672139,J01144Bm1: pre-2013 French isolate,France,Other,Europe,Hubbard et al. 2015,France 1988-2013,Pre-2013 French isolates
+US312-14,US312/14,USA,Other,North America,Milus et al. 2015,[1] US312/14: -,Characterised Pst isolates
+KE86058,KE86058: PstS1,Kenya,PstS1,Africa,Walter et al. 2016,[11] KE86058: PstS1,Characterised Pst isolates
+ERS1327145,14.0039,Germany,PstS10,Europe,Bueno-Sancho et al. 2017,,Genetic group 4
+ERS1327162,14.0079,Germany,PstS10,Europe,Bueno-Sancho et al. 2017,,Genetic group 4
+ERS1327175,14.0095,Belgium,PstS10,Europe,Bueno-Sancho et al. 2017,,Genetic group 4
+ERS1327177,14.0097,Belgium,PstS10,Europe,Bueno-Sancho et al. 2017,,Genetic group 4
+ERS1327183,14.0108,France,PstS10,Europe,Bueno-Sancho et al. 2017,,Genetic group 4
+ERS1327203,14.0159,UK,PstS10,Europe,Bueno-Sancho et al. 2017,14/14,Genetic group 4
+ERS1327228,14.0215,UK,PstS10,Europe,Bueno-Sancho et al. 2017,14/60,Genetic group 4
+DK15-16,DK15/16: PstS10,Denmark,PstS10,Europe,Ali et al. 2017,[8] DK15/16: PstS10,Characterised Pst isolates
+DK_sample2,DK10_16,Denmark,PstS13,Europe,,23.0035-37,PstS13
+DK_sample1,DK69_15,Denmark,PstS13,Europe,,23.0038-40,PstS13
+DK_sample4,IT83_17,Italy,PstS13,Europe,,23.0029-31,PstS13
+AZ165-16,AZ165/16: PstS2 v27,Azerbaijan,PstS2,Asia,Walter et al. 2016,[13] AZ165/16: PstS2 v27,Characterised Pst isolates
+SE225-15,SE225/15: PstS4,Sweden,PstS4,Europe,Hovmøller et al. 2016,[10] SE225/15: PstS4,Characterised Pst isolates
+UZ14-10,UZ14/10: PstS5 v17,Uzbekistan,PstS5,Asia,Ali et al. 2017,[4] UZ14/10: PstS5 v17,Characterised Pst isolates
+ET08-10,ET08/10: PstS6,Ethiopia,PstS6,Africa,Ali et al. 2017,[9] ET08/10: PstS6,Characterised Pst isolates
+DK_sample3,ET399_15,Ethiopia,PstS6,Africa,,23.0032-34,PstS6
+ERS1327120,14.0002,Czechia,PstS7,Europe,Bueno-Sancho et al. 2017,,Genetic group 1
+ERS1327140,14.0026,Poland,PstS7,Europe,Bueno-Sancho et al. 2017,,Genetic group 1
+DK14-16,DK14/16: PstS7,Denmark,PstS7,Europe,Hovmøller et al. 2016,[5] DK14/16: PstS7,Characterised Pst isolates
+SE427-17,SE427/17: PstS7,Sweden,PstS7,Europe,Hovmøller et al. 2016,[12] SE427/17: PstS7,Characterised Pst isolates
+ERS1327141,14.0027,Poland,PstS8,Europe,Bueno-Sancho et al. 2017,,Genetic group 5-1
+DK52-16,DK52/16: PstS8,Denmark,PstS8,Europe,Hovmøller et al. 2016,[6] DK52/16: PstS8,Characterised Pst isolates
+UZ189-16,UZ189/16: PstS9 v17,Uzbekistan,PstS9,Asia,Ali et al. 2017,[7] UZ189/16: PstS9 v17,Characterised Pst isolates
+ERS1327127,14.0010,Poland,Triticale,Europe,Bueno-Sancho et al. 2017,,Genetic group 2
+ERS1327156,14.0062,France,Triticale,Europe,Bueno-Sancho et al. 2017,,Genetic group 2
+ERS1327160,14.0077,Italy,Triticale,Europe,Bueno-Sancho et al. 2017,,Genetic group 2
+ERS1327185,14.0120,Germany,Triticale,Europe,Bueno-Sancho et al. 2017,,Genetic group 2
+SRX690542,CL1,UK,Triticale,Europe,Hubbard et al. 2015,,Genetic group 2
+KE20230041,KE20230041: PstS16,Kenya,PstS16,Africa,,,PstS16
