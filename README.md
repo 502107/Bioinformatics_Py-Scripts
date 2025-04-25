@@ -40,6 +40,7 @@ brew install samtools
 - `UpsetPlot/`: Tools for creating UpSet plots
 - `fix-marple-genes/`: Scripts for fixing gene annotations
 - `search_for_old_genes/`: Tools for finding genes from one genome assembly in another
+- `CheckPrimerOffTargets/`: Search for off targets of primer pairs in reference sequence
 
 ## Main Tools and Usage
 
@@ -151,6 +152,9 @@ Tools for legacy gene identification. For instructions see `scripts/instructions
 1. **Legacy Gene Search**
 - Navigate to the search_for_old_genes directory
 - Follow the specific instructions in the directory for searching legacy genes 
+
+### CheckPrimerOffTargets
+Script to search for off-targets of primer pairs in a reference assembly.
 
 ## Contributing
 
